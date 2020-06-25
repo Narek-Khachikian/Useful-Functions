@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Narek Khachikian</Authors>
+    <Company>---</Company>
+    <Product>NarekLibraryForTest</Product>
+    <PackageId>NarekLibraryForTest</PackageId>
+  </PropertyGroup>
+
+</Project>
